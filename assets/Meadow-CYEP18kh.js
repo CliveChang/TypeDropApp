@@ -1,1 +1,0 @@
-import{l as e,r as t,s as n,t as r,u as i}from"./index-BKVJG0Jp.js";var a=n({__name:`Meadow`,props:{worldTheme:{},worldX:{},routeX:{},worldFar:{},worldNear:{},worldDunes:{},matBackdrop:{type:Boolean},bandMask:{},sky:{},railBedView:{},railY:{},roadView:{}},setup(n){let a=n;return(n,o)=>(i(),t(r,e(a,{class:`fam-meadow`}),null,16))}});export{a as t};
