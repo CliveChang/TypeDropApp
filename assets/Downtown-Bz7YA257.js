@@ -1,1 +1,0 @@
-import{c as e,d as t,r as n,s as r,t as i,u as a}from"./index-DySzzuDL.js";var o=r({__name:`Downtown`,props:{worldTheme:{},worldX:{},routeX:{},worldFar:{},worldNear:{},worldDunes:{},matBackdrop:{type:Boolean},bandMask:{},sky:{},railBedView:{},railY:{},roadView:{}},setup(r){let o=r;return(r,s)=>(a(),n(i,t(e(o)),null,16))}});export{o as default};

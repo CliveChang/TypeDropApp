@@ -1,0 +1,1 @@
+import{i as e,s as t}from"./index-IphwEWo2.js";var n=t({__name:`Yamato`,props:{worldTheme:{},worldX:{},routeX:{},worldFar:{},worldNear:{},worldDunes:{},matBackdrop:{type:Boolean},bandMask:{},sky:{},railBedView:{},railY:{},roadView:{}},setup(t){return(t,n)=>e(``,!0)}});export{n as default};

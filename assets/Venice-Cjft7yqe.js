@@ -1,1 +1,0 @@
-import{c as e,d as t,r as n,s as r,u as i}from"./index-DySzzuDL.js";import{t as a}from"./RiverCity-D70uf8RC.js";var o=r({__name:`Venice`,props:{worldTheme:{},worldX:{},routeX:{},worldFar:{},worldNear:{},worldDunes:{},matBackdrop:{type:Boolean},bandMask:{},sky:{},railBedView:{},railY:{},roadView:{}},setup(r){let o=r;return(r,s)=>(i(),n(a,t(e(o)),null,16))}});export{o as default};
