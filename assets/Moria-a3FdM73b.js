@@ -1,0 +1,1 @@
+import{i as e,s as t}from"./index-CuKmWmw7.js";var n=t({__name:`Moria`,props:{worldTheme:{},worldX:{},routeX:{},worldFar:{},worldNear:{},worldDunes:{},matBackdrop:{type:Boolean},bandMask:{},sky:{},railBedView:{},railY:{},roadView:{}},setup(t){return(t,n)=>e(``,!0)}});export{n as default};
