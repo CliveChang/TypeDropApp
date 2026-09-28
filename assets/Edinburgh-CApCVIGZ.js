@@ -1,1 +1,0 @@
-import{c as e,d as t,r as n,s as r,u as i}from"./index-CuKmWmw7.js";import{t as a}from"./Meadow-B9cwe3ws.js";var o=r({__name:`Edinburgh`,props:{worldTheme:{},worldX:{},routeX:{},worldFar:{},worldNear:{},worldDunes:{},matBackdrop:{type:Boolean},bandMask:{},sky:{},railBedView:{},railY:{},roadView:{}},setup(r){let o=r;return(r,s)=>(i(),n(a,t(e(o)),null,16))}});export{o as default};

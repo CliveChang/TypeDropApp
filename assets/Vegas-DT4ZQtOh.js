@@ -1,0 +1,1 @@
+import{c as e,d as t,r as n,s as r,u as i}from"./index-JHC5co78.js";import{t as a}from"./RiverCity-7crSLpKN.js";var o=r({__name:`Vegas`,props:{worldTheme:{},worldX:{},routeX:{},worldFar:{},worldNear:{},worldDunes:{},matBackdrop:{type:Boolean},bandMask:{},sky:{},railBedView:{},railY:{},roadView:{}},setup(r){let o=r;return(r,s)=>(i(),n(a,t(e(o)),null,16))}});export{o as default};
