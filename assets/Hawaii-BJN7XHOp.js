@@ -1,1 +1,0 @@
-import{c as e,g as t,i as n,l as r,p as i}from"./index-P0y-y6AL.js";import{t as a}from"./Meadow-Bsu2lzKc.js";var o=e({__name:`Hawaii`,props:{worldTheme:{},worldX:{},routeX:{},worldFar:{},worldNear:{},worldDunes:{},matBackdrop:{type:Boolean},bandMask:{},sky:{},railBedView:{},railY:{},roadView:{}},setup(e){let o=e;return(e,s)=>(i(),n(a,t(r(o)),null,16))}});export{o as default};
