@@ -1,0 +1,1 @@
+import{a as e,c as t}from"./index-CDsAetTR.js";var n=t({__name:`Rushmore`,props:{worldTheme:{},worldX:{},routeX:{},worldFar:{},worldNear:{},worldDunes:{},matBackdrop:{type:Boolean},bandMask:{},sky:{},railBedView:{},railY:{},roadView:{}},setup(t){return(t,n)=>e(``,!0)}});export{n as default};

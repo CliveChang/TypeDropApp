@@ -1,1 +1,0 @@
-import{c as e,g as t,i as n,l as r,p as i}from"./index-DhgJseBC.js";import{t as a}from"./RiverCity-BxFbIOh9.js";var o=e({__name:`Seoul`,props:{worldTheme:{},worldX:{},routeX:{},worldFar:{},worldNear:{},worldDunes:{},matBackdrop:{type:Boolean},bandMask:{},sky:{},railBedView:{},railY:{},roadView:{}},setup(e){let o=e;return(e,s)=>(i(),n(a,t(r(o)),null,16))}});export{o as default};
