@@ -1,0 +1,1 @@
+import{c as e,g as t,i as n,l as r,p as i}from"./index-BWTXl3Ih.js";import{t as a}from"./Meadow-CKFsqYuL.js";var o=e({__name:`Swiss`,props:{worldTheme:{},worldX:{},routeX:{},worldFar:{},worldNear:{},worldDunes:{},matBackdrop:{type:Boolean},bandMask:{},sky:{},railBedView:{},railY:{},roadView:{}},setup(e){let o=e;return(e,s)=>(i(),n(a,t(r(o)),null,16))}});export{o as default};

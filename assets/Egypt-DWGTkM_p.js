@@ -1,0 +1,1 @@
+import{c as e,g as t,i as n,l as r,p as i,t as a}from"./index-BWTXl3Ih.js";var o=e({__name:`Egypt`,props:{worldTheme:{},worldX:{},routeX:{},worldFar:{},worldNear:{},worldDunes:{},matBackdrop:{type:Boolean},bandMask:{},sky:{},railBedView:{},railY:{},roadView:{}},setup(e){let o=e;return(e,s)=>(i(),n(a,t(r(o)),null,16))}});export{o as default};
